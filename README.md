@@ -1,4 +1,4 @@
-### Hi there this is Suzan
+### Hi there this is Suzan👋
 
 - 👩‍🔧 I'm an engineering student
 - ⚡ Keen to learn new tech related concepts everyday
