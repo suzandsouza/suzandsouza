@@ -1,6 +1,5 @@
 
 
-- 👩‍🔧 I'm an engineering student
 - ⚡ Keen to learn new tech related concepts everyday
   
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzandsouza&show_icons=true&theme=radical)
