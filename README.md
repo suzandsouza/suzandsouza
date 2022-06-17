@@ -66,10 +66,12 @@
 </p>
 
 </p>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzandsouza&show_icons=true&theme=radical)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=suzandsouza&label=Suzan's%20Profile%20Views%20&color=yellow&style=plastic" alt="suzandsouza" /> </p>
+<!-- <p align="center">  
+  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzandsouza&show_icons=true&theme=radical)">
 
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suzandsouza&label=Suzan's%20Profile%20Views%20&color=yellow&style=plastic" alt="suzandsouza" /> </p>
+ -->
 
 <!-- - <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
