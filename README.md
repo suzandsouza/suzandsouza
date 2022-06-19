@@ -28,6 +28,9 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
+  <a href="" target="_blank">
+  <img alt="Django" src="https://img.shields.io/badge/Django-2.0-blue">
+  </a>
   
  ## 👉Front End Languages
  
@@ -45,6 +48,7 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
 &emsp; 
+  
 </p>
 
  
