@@ -7,7 +7,7 @@
 
 
 ## ⛏ My Skills
-## 👉Programming Languages
+## ⚙Programming Languages
 
 <p align="left"> 
   &emsp; 
@@ -30,7 +30,8 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-2.0-blue">
   </a>
   
- ## 👉Front End Languages
+  
+ ## ⚙Front End Languages
  
 <p align="left"> 
   &emsp; 
@@ -50,7 +51,7 @@
 </p>
 
  
- ## 🛠 Known Tools & Software
+ ## 🛠 Tools & Software
  <p>
   &emsp;
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
