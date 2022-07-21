@@ -2,10 +2,12 @@
 ### ⚡ Keen to learn new tech related concepts everyday!
 
 ---
+<!--
 ### ⌛ Streak Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suzandsouza&theme=algolia" alt="suzandsouza" /></p>
 
 ---
+-->
 
 ### ⚙Programming Languages
 
