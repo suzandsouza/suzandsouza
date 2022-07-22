@@ -34,7 +34,7 @@
 
 ---
  
-### ⚙Front End Languages
+### ⚙Front End
  
 <p align="left"> 
   
