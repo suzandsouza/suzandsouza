@@ -1,16 +1,18 @@
----
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <p align="center"><img src="./Github_readme-removebg-New.png" alt="Hi there! I'm Suzan"></p>
 <h3>⚡ I'm always keen to learn new tech concepts!</h3>
 
 ---
 
-### ⌛ Streak Stats
+## ⌛ Streak Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suzandsouza&theme=algolia" alt="suzandsouza" /></p>
 
 ---
 
 
-### ⚙Programming Languages, Frameworks, Tools & Softwares
+## ⚙Programming Languages, Frameworks, Tools & Softwares
 
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -54,15 +56,14 @@
 
 ---
 
- 
-<!--
-<p> 
-<h3>Connect with me</h3>
+ ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 
+<p align="left">
 
-
-
-</p>-->
+<a href = "https://www.linkedin.com/in/suzan-dsouza-b62509202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/suzandsouza15"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "suzandsouza1505@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+</p>
 <!-- <p align="center">  
   <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzandsouza&show_icons=true&theme=radical)">
 
