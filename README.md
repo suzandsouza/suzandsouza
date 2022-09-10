@@ -4,7 +4,7 @@
 <p align="center"><img src="./Github_readme-removebg-New.png" alt="Hi there! I'm Suzan"></p>
 <h3>⚡ I'm always keen to learn new tech concepts!</h3>
 
----
+
 
 
 <!--
