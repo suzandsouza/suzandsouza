@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<p align="center"><img src="./Github_readme-removebg-New.png" alt="Hi there! I'm Suzan"></p>
+<p align="center"><img src="./poster.PNG" alt="Hi there! I'm Suzan"></p>
 <h3 align= "center">⚡ I'm always keen to learn new tech concepts!</h3>
 
 
