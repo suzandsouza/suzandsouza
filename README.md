@@ -1,8 +1,8 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<p align="center"><img src="./poster.PNG" alt="Hi there! I'm Suzan"></p>
-<p align= "center"> I love making software that can bring a change in the society!</p>
+<p align="center"><img src="./github_rd.PNG" alt="Hi there! I'm Suzan"></p>
+<h3 align= "center"><i> I love making software that can bring a change in the society! </i></h3>
 
 
 <!--
