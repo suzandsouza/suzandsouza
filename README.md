@@ -65,6 +65,8 @@
  | ![Suzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzandsouza&show_icons=true&theme=city_lights) | ![Suzan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suzandsouza&theme=city-lights) |
  | :---: | :---: |
 
+  |   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzandsouza&show_icons=true&theme=radical)](https://github.com/suzandsouza/github-readme-stats)
+  | :---: |
 
 ### Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 
