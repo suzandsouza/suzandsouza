@@ -67,7 +67,7 @@
 
   |   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzandsouza&show_icons=true&theme=radical)](https://github.com/suzandsouza/github-readme-stats)
   | :---: |
-
+[![@suzandsouza's Holopin board](https://holopin.me/suzandsouza)](https://holopin.io/@suzandsouza)
 ### Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 
 <p align="left">
