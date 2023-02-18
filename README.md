@@ -1,10 +1,17 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<p align="center"><img src="./github_rd.PNG" alt="Hi there! I'm Suzan"></p>
-<h3 align= "center"><i> I love making software that can bring a change in the society! </i></h3>
+<p align="center"><img src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" alt="Hi there! I'm Suzan"></p>
+<h3 align= "center"><i> I am a junior currently pursuing my bachelor’s from Mumbai University, majoring in computer engineering. <br> </i></h3>
 
+### Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 
+<p align="center">
+
+<a href = "https://www.linkedin.com/in/suzan-dsouza-b62509202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/suzandsouza15"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "suzandsouza1505@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+</p>
 <!--
 ## ⚙Programming Languages, Frameworks, Tools & Softwares
 
@@ -87,14 +94,7 @@
   |   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzandsouza&show_icons=true&theme=radical)](https://github.com/suzandsouza/github-readme-stats)
   | :---: |
 [![@suzandsouza's Holopin board](https://holopin.me/suzandsouza)](https://holopin.io/@suzandsouza)
-### Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/suzan-dsouza-b62509202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/suzandsouza15"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "suzandsouza1505@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-</p>
 
 <!-- <p align="center">  
   <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzandsouza&show_icons=true&theme=radical)">
