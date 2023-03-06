@@ -7,8 +7,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=A177FE&center=true&width=480&lines=%3C+Never+stop+building⚙!+%3E;%3C+Full-stack+web+developer+%3E;%3C+Blockchain+and+Web3.0%2C+!+%3E;%3C+Always+learning+new+stuff+%3E"/>
 </p>
-  <i> I am a junior currently pursuing my bachelor’s from Mumbai University, majoring in computer engineering. <br> </i></h3>
+ I am a junior currently pursuing my bachelor’s from Mumbai University, majoring in computer engineering. <br> </h3>
 
+## 📌 Repositories
 <p align='center'>
 <p align="center">
 <a href="https://github.com/suzandsouza/FIR-Registration-on-the-chain">
