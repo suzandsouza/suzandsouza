@@ -9,6 +9,28 @@
 </p>
   <i> I am a junior currently pursuing my bachelor’s from Mumbai University, majoring in computer engineering. <br> </i></h3>
 
+<p align='center'>
+<p align="center">
+<a href="https://github.com/suzandsouza/FIR-Registration-on-the-chain">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=suzandsouza&repo=FIR-Registration-on-the-chain&theme=aura" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/suzandsouza/DevelopHers_Clash-Of-Codes">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=suzandsouza&repo=DevelopHers_Clash-Of-Codes&theme=aura" />
+</a>
+</p>
+</p>
+
+<p align="center">
+<a href="https://github.com/suzandsouza/develop-hers">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=suzandsouza&repo=develop-hers&theme=aura" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/suzandsouza/Salary-Payments-using-Eths">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=suzandsouza&repo=Salary-Payments-using-Eths&theme=aura" />
+</a>
+</p>
+
 ### Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 
 <p align="center">
