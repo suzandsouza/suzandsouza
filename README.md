@@ -27,8 +27,8 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=suzandsouza&repo=develop-hers&theme=aura" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/suzandsouza/Salary-Payments-using-Eths">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=suzandsouza&repo=Salary-Payments-using-Eths&theme=aura" />
+<a href="https://github.com/suzandsouza/DigitalMavericks_Strategem2k23">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=suzandsouza&repo=DigitalMavericks_Strategem2k23&theme=aura" />
 </a>
 </p>
 
