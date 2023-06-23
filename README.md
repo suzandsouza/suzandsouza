@@ -1,13 +1,11 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<p align="center"><img src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" alt="Hi there! I'm Suzan"></p>
-<h3 align= "center"  style="color:purple">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=A177FE&center=true&width=480&lines=%3C+Never+stop+building⚙!+%3E;%3C+Full-stack+web+developer+%3E;%3C+Blockchain+and+Web3.0%2C+!+%3E;%3C+Always+learning+new+stuff+%3E"/>
 </p>
- I am a junior currently pursuing my bachelor’s from Mumbai University, majoring in computer engineering. <br> </h3>
+ I am a senior pursuing my bachelor’s from Mumbai University, majoring in computer engineering. <br> </h3>
 
 ## 📌 Repositories
 <p align='center'>
@@ -83,8 +81,8 @@
 
 </p>
 -->
-<details>
-<summary>Know More</summary>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <!--<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> -->
@@ -113,8 +111,6 @@
 
 ## Current Stats
 
- |   ![Suzan's github activity graph](https://activity-graph.herokuapp.com/graph?username=suzandsouza&theme=rogue) |
- | :---: |
 
  | ![Suzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzandsouza&show_icons=true&theme=city_lights) | ![Suzan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suzandsouza&theme=city-lights) |
  | :---: | :---: |
